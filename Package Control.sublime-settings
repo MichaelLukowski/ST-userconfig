@@ -1,0 +1,19 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Boxy Theme",
+		"Deep Blue See",
+		"Dockerfile Syntax Highlighting",
+		"Indent XML",
+		"Number King",
+		"Package Control",
+		"Pretty JSON",
+		"Stan",
+		"SublimeCodeIntel",
+		"x86 and x86_64 Assembly"
+	]
+}

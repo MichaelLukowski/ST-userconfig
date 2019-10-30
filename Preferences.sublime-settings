@@ -1,0 +1,15 @@
+{
+	"color_scheme": "Packages/Deep Blue See/Deep Blue See.tmTheme",
+	"font_size": 8,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"open_files_in_new_window": false,
+	"theme": "Boxy Ocean.sublime-theme",
+	"theme_bar": true,
+	"theme_dirty_accent_tangerine": true,
+	"theme_dirty_materialized": true,
+	"theme_dropdown_materialized": true,
+	"theme_tab_selected_underlined": true
+}
